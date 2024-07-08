@@ -9,7 +9,7 @@
 ## :sunglasses: Datos Adicionales 
 
 <p>El desafio esta completamente terminado, tiene end-points para hacer las diferentes acciones del CRUD tanto para cursos, topicos y respuestas. Aunque solo se planteaba realizar
-el chellenge para Topicos, se vio conveniente realizar las demas tablas propuestas en el diagrama entidad relacion, como cursos, y respuestas, para tener el proyecto mas completo</p>
+el challenge para Topicos, se vio conveniente realizar las demas tablas propuestas en el diagrama entidad relacion, como cursos, y respuestas, para tener el proyecto mas completo</p>
 
 ## :hammer: Configuraciones del proyecto a tener en cuenta
 
